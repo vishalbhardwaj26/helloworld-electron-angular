@@ -21,3 +21,6 @@ npm run electron
 * command "npm run watch" was set up in our package.json file in the project root, and it runs webpack with some options. One of these options is to watch for changes, so we can now edit our app.ts file and everything will automatically get bundled again.
 * It's worth noting that a lot of this was just to set up Angular 2 and wasn't because of Electron specifically. 
 * If everything is wired up properly, we should now see our "Hello World" message.
+
+
+![](images/block.jpg)
